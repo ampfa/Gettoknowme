@@ -8,7 +8,7 @@ const projects = [
   {
     name: "TV Finder Quiz",
     description: "A JS-powered quiz to recommend TVs with affiliate links, based on room, budget, and usage.",
-    link: "https://yourgithub.github.io/tv-finder"
+    link: "https://tvfinder.github.io/which-tv-should-i-buy/"
   }
 ];
 
