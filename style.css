@@ -41,6 +41,48 @@ h2 {
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
+.experience {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.experience-card {
+  background: white;
+  padding: 20px;
+  border-left: 5px solid #00b894;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+}
+
+.experience-card h3 {
+  margin-top: 0;
+  font-size: 1.5em;
+}
+
+.experience-card .company {
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.experience-card .date-range {
+  font-weight: normal;
+  color: #888;
+  font-size: 0.9em;
+}
+
+.responsibilities {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.responsibilities li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
 
 .project-list {
   display: flex;
