@@ -4,15 +4,14 @@ document.getElementById("title").textContent = currentTitle;
 
 // Sample projects
 const projects = [
- 
   {
     name: "TV Finder Quiz",
     description: "A JS-powered quiz to recommend TVs with affiliate links, based on room, budget, and usage.",
     link: "https://tvfinder.github.io/which-tv-should-i-buy/"
-  }
+  }, // <-- Add this comma
   {
-    name: "TV Finder Quiz",
-    description: "A focused, single-page landing site designed to introduce a product or platform—clear and uncluttered. Consists of a HTML, CSS, and little bit of JS to. First real world project for a business.",
+    name: "Landing Page",
+    description: "A focused, single-page landing site designed to introduce a product or platform—clear and uncluttered. Consists of a HTML, CSS, and little bit of JS. First real world project for a business.",
     link: "https://ampfa.github.io/Landingpage/"
   }
 ];
