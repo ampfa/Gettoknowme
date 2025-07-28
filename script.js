@@ -5,6 +5,12 @@ document.getElementById("title").textContent = currentTitle;
 // Sample projects
 const projects = [
   {
+    name: "Feeder Manager",
+    description: "designed to simplify the management of deer feeders and farm feeders, using tech like firebase and to eventually build onto a resberry pie.",
+    link: "https://github.com/ampfa/Feeder",
+    year: "2025"
+  },
+  {
     name: "TV Finder Quiz",
     description: "A JS-powered quiz to recommend TVs with affiliate links, based on room, budget, and usage.",
     link: "https://tvfinder.github.io/which-tv-should-i-buy/",
