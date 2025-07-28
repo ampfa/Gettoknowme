@@ -6,7 +6,7 @@ document.getElementById("title").textContent = currentTitle;
 const projects = [
   {
     name: "Feeder Manager",
-    description: "Designed to simplify the management of deer feeders and farm feeders, using tech like firebase and to eventually build onto a resberry pie.",
+    description: " Current project. Designed to simplify the management of deer feeders and farm feeders, using tech like firebase and to eventually build onto a resberry pie.",
     link: "https://github.com/ampfa/Feeder",
     year: "2025"
   },
